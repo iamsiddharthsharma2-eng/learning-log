@@ -1,0 +1,22 @@
+## Day 10 - July 10, 2026: Domain 1.3 Complete + Domain 1.4 Started
+
+### Domain 1.3 - Change Management (final part)
+Covered: 10-step change management cycle, Types of Changes 
+(Standard/Normal/Emergency), Change Management KPIs.
+
+STATUS: Domain 1.3 fully complete.
+
+### Domain 1.4 - Cryptography (substantial progress)
+Covered: Cryptographic Solutions overview, Cipher basics 
+(Plaintext/Ciphertext/Algorithm/Key), Cipher Types (Stream/Block/
+Confusion/Diffusion), Keys (Key Space/Key Stretching/Symmetric/
+Asymmetric), Key Security (TPM/Secure Enclave/HSM/Key Escrow),
+Cryptographic Strength (Deprecated/Broken).
+
+### Key Security - Quick Reference (overlapping terms clarified)
+- TPM = built-in chip on motherboard (device-level)
+- Secure Enclave = isolated area inside the processor (chip-level)
+- HSM = dedicated external/network device (enterprise-level)
+
+Note to self: Heavy day - 2 domains touched. Revisit Symmetric vs 
+Asymmetric keys and the TPM/Secure Enclave/HSM table before moving on.
