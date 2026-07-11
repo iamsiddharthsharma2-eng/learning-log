@@ -1,0 +1,21 @@
+## Day 11 - July 11, 2026: Cryptography Core Content
+
+Covered: Encryption process, Symmetric Encryption (AES/3DES/Blowfish/
+Twofish), Asymmetric Encryption (RSA/ECC/Diffie-Hellman/ElGamal), 
+Hashing (MD5/SHA-1/SHA-256), Hash Extensions (HMAC/Salting), 
+Digital Signature (RSA/DSA).
+
+### Symmetric vs Asymmetric - Quick Reference
+| Characteristic | Symmetric | Asymmetric |
+|---|---|---|
+| Processing | Fast | Slow |
+| Key Size | Small | Large |
+| Scalability | Low | High |
+| Key Exchange | Problem | Solved |
+
+### Digital Signature Flow
+Message -> Hash -> Sign with PRIVATE key -> Verify with PUBLIC key
+(proves authenticity + integrity)
+
+Status: Heaviest session so far (17 slides). Domain 1.4 core 
+cryptography content solidly covered.
