@@ -8,7 +8,7 @@ JLPT N5 certification by December 2026
 - Duolingo (daily quest)
 - Minna no Nihongo textbook (Grammar Book + Text Book)
 - Cure Dolly YouTube series for grammar explanations
-- Daily study slot: 9 AM, 1 hour
+
 
 ## Plan
 Starting from Hiragana/Katakana basics, then moving through 
