@@ -4,10 +4,10 @@
 JLPT N5 certification by December 2026
 
 ## Method
-- Anki (Hiragana/Katakana + vocab decks, 5 cards/day)
-- Duolingo (daily quest)
+- Anki
+- Duolingo 
 - Minna no Nihongo textbook (Grammar Book + Text Book)
-- Cure Dolly YouTube series for grammar explanations
+- YouTube series for grammar explanations
 
 
 ## Plan
